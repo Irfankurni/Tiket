@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "993314881291",
+    "firebase_url": "https://tiketsaya-d815f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tiketsaya-d815f",
+    "storage_bucket": "tiketsaya-d815f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993314881291:android:9552d072e1e36b2f982c0e",
+        "android_client_info": {
+          "package_name": "com.example.tiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993314881291-b2nliba9vtckblos53chbg1qsmj4h0qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhizbgG8t69rfD2e6uspoH_DedEdNHSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993314881291-b2nliba9vtckblos53chbg1qsmj4h0qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993314881291:android:ea0b334c54fe8ffb982c0e",
+        "android_client_info": {
+          "package_name": "com.example.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993314881291-ob7510kcn8lsriiodqr435im0lcfr9t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiketsaya",
+            "certificate_hash": "75d0ce2e5ffc96d89b5e3f60d14ad91204afcc68"
+          }
+        },
+        {
+          "client_id": "993314881291-b2nliba9vtckblos53chbg1qsmj4h0qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhizbgG8t69rfD2e6uspoH_DedEdNHSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993314881291-b2nliba9vtckblos53chbg1qsmj4h0qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
